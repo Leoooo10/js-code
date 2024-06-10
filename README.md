@@ -22,5 +22,3 @@ function draw() {
  if (yBolinha > height || yBolinha < 0) {
         velocidadeYBolinha *= -1;
     }
-   
-}
